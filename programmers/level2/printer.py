@@ -1,5 +1,7 @@
 # https://programmers.co.kr/learn/courses/30/lessons/42587
 
+# level2
+
 def solution(priorities, location):
     nNowPos = location
     answer = 1
