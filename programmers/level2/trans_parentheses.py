@@ -2,6 +2,8 @@
 # 괄호 변환
 # level2 # 2020 KAKAO BLIND RECRUITMENT
 
+# 문제가 복잡해서 그대로 읽으며 구현해봄
+# ide사용해서 디버깅했기에 금방풀었던 문제
 
 def swap(p):
     resultStr = ""
